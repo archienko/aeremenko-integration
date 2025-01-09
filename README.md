@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Excel+-+to+-+DB+integrator)](https://git.io/typing-svg)</br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Excel+to+DB+integrator)](https://git.io/typing-svg)</br>
 ## A utility for downloading and processing data from an excel file into database tables on remote servers
 Please do not judge strictly because the utility was created by me without knowledge
 of the python programming language.
